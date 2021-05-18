@@ -7,15 +7,45 @@
 			}
 		},
 		{
-			"path": "pages/horizontal/index",
+			"path": "pages/test/index",
 			"style": {
-				"navigationBarTitleText": "横屏"
+				"navigationBarTitleText": "测试页面"
 			}
 		},
 		{
 			"path": "pages/video/index",
 			"style": {
-				"navigationBarTitleText": "视频"
+				"navigationBarTitleText": "精美视频"
+			}
+		},
+		{
+			"path": "pages/videoPlay/index",
+			"style": {
+				"navigationBarTitleText": "视频播放"
+			}
+		},
+		{
+			"path": "pages/imgCategory/index",
+			"style": {
+				"navigationBarTitleText": "图片分类"
+			}
+		},
+		{
+			"path": "pages/album/index",
+			"style": {
+				"navigationBarTitleText": "专辑详情"
+			}
+		},
+		{
+			"path": "pages/imgDetail/index",
+			"style": {
+				"navigationBarTitleText": "图片详情"
+			}
+		},
+		{
+			"path": "pages/horizontal/index",
+			"style": {
+				"navigationBarTitleText": "横屏"
 			}
 		},
 		{
